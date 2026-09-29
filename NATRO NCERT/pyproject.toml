@@ -1,11 +1,4 @@
-[tool.poetry]
-name = "studyos"
-version = "0.1.0"
-description = "StudyOS Web App"
-authors = ["Your Name <you@example.com>"]
-package-mode = false
-
 [tool.poetry.dependencies]
 python = "^3.10"
 gunicorn = "^23.0.0"
-# Add your other dependencies here (like flask, fastapi, django, etc.)
+flask = "^3.0.0"
