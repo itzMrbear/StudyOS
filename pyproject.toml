@@ -1,2 +1,2 @@
 [tool.vercel]
-entrypoint = "NATRO NCERT.app:app"
+entrypoint = "app:app"
